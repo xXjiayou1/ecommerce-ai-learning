@@ -109,3 +109,6 @@
 
 ## 📞 联系方式
 如有问题或交流，欢迎提交Issue或联系我。
+## ✅ 已完成项目
+1. [基础电商客服机器人](projects/01-basic-customer-service/)
+2. [电商广告语生成器](projects/02-ad-generator/)
